@@ -1,0 +1,13 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BodyMassIndexApplication\bin\Debug\netcoreapp3.1\BodyMassIndexApplication.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BodyMassIndexApplication\bin\Debug\netcoreapp3.1\BodyMassIndexApplication.deps.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BodyMassIndexApplication\bin\Debug\netcoreapp3.1\BodyMassIndexApplication.runtimeconfig.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BodyMassIndexApplication\bin\Debug\netcoreapp3.1\BodyMassIndexApplication.runtimeconfig.dev.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BodyMassIndexApplication\bin\Debug\netcoreapp3.1\BodyMassIndexApplication.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BodyMassIndexApplication\bin\Debug\netcoreapp3.1\BodyMassIndexApplication.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BodyMassIndexApplication\obj\Debug\netcoreapp3.1\BodyMassIndexApplication.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BodyMassIndexApplication\obj\Debug\netcoreapp3.1\BodyMassIndexApplication.AssemblyInfoInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BodyMassIndexApplication\obj\Debug\netcoreapp3.1\BodyMassIndexApplication.AssemblyInfo.cs
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BodyMassIndexApplication\obj\Debug\netcoreapp3.1\BodyMassIndexApplication.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BodyMassIndexApplication\obj\Debug\netcoreapp3.1\BodyMassIndexApplication.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BodyMassIndexApplication\obj\Debug\netcoreapp3.1\BodyMassIndexApplication.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BodyMassIndexApplication\obj\Debug\netcoreapp3.1\BodyMassIndexApplication.genruntimeconfig.cache

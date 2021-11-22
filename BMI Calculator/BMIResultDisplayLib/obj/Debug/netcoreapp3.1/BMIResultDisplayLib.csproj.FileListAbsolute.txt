@@ -1,0 +1,9 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIResultDisplayLib\bin\Debug\netcoreapp3.1\BMIResultDisplayLib.deps.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIResultDisplayLib\bin\Debug\netcoreapp3.1\BMIResultDisplayLib.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIResultDisplayLib\bin\Debug\netcoreapp3.1\BMIResultDisplayLib.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIResultDisplayLib\obj\Debug\netcoreapp3.1\BMIResultDisplayLib.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIResultDisplayLib\obj\Debug\netcoreapp3.1\BMIResultDisplayLib.AssemblyInfoInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIResultDisplayLib\obj\Debug\netcoreapp3.1\BMIResultDisplayLib.AssemblyInfo.cs
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIResultDisplayLib\obj\Debug\netcoreapp3.1\BMIResultDisplayLib.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIResultDisplayLib\obj\Debug\netcoreapp3.1\BMIResultDisplayLib.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIResultDisplayLib\obj\Debug\netcoreapp3.1\BMIResultDisplayLib.pdb

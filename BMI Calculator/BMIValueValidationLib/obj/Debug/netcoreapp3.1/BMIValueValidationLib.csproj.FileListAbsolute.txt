@@ -1,0 +1,16 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIValueValidationLib\bin\Debug\netcoreapp3.1\BMIValueValidationLib.deps.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIValueValidationLib\bin\Debug\netcoreapp3.1\BMIValueValidationLib.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIValueValidationLib\bin\Debug\netcoreapp3.1\BMIValueValidationLib.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIValueValidationLib\bin\Debug\netcoreapp3.1\BMIUserInputLib.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIValueValidationLib\bin\Debug\netcoreapp3.1\BMIValueCalculationLib.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIValueValidationLib\bin\Debug\netcoreapp3.1\BMIValueCalculationLib.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIValueValidationLib\bin\Debug\netcoreapp3.1\BMIUserInputLib.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIValueValidationLib\obj\Debug\netcoreapp3.1\BMIValueValidationLib.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIValueValidationLib\obj\Debug\netcoreapp3.1\BMIValueValidationLib.AssemblyInfoInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIValueValidationLib\obj\Debug\netcoreapp3.1\BMIValueValidationLib.AssemblyInfo.cs
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIValueValidationLib\obj\Debug\netcoreapp3.1\BMIValueValidationLib.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIValueValidationLib\obj\Debug\netcoreapp3.1\BMIValueValidationLib.csproj.CopyComplete
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIValueValidationLib\obj\Debug\netcoreapp3.1\BMIValueValidationLib.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIValueValidationLib\obj\Debug\netcoreapp3.1\BMIValueValidationLib.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIValueValidationLib\bin\Debug\netcoreapp3.1\BMIResultDisplayLib.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\BMIValueValidationLib\bin\Debug\netcoreapp3.1\BMIResultDisplayLib.pdb

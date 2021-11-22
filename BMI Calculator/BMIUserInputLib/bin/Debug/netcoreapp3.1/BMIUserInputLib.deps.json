@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BMIUserInputLib/1.0.0": {
+        "dependencies": {
+          "BMIResultDisplayLib": "1.0.0"
+        },
+        "runtime": {
+          "BMIUserInputLib.dll": {}
+        }
+      },
+      "BMIResultDisplayLib/1.0.0": {
+        "runtime": {
+          "BMIResultDisplayLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BMIUserInputLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BMIResultDisplayLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
