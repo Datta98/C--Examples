@@ -1,0 +1,13 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CampusEntryApplication\obj\Debug\netcoreapp3.1\CampusEntryApplication.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CampusEntryApplication\obj\Debug\netcoreapp3.1\CampusEntryApplication.AssemblyInfoInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CampusEntryApplication\obj\Debug\netcoreapp3.1\CampusEntryApplication.AssemblyInfo.cs
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CampusEntryApplication\obj\Debug\netcoreapp3.1\CampusEntryApplication.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CampusEntryApplication\bin\Debug\netcoreapp3.1\CampusEntryApplication.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CampusEntryApplication\bin\Debug\netcoreapp3.1\CampusEntryApplication.deps.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CampusEntryApplication\bin\Debug\netcoreapp3.1\CampusEntryApplication.runtimeconfig.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CampusEntryApplication\bin\Debug\netcoreapp3.1\CampusEntryApplication.runtimeconfig.dev.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CampusEntryApplication\bin\Debug\netcoreapp3.1\CampusEntryApplication.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CampusEntryApplication\bin\Debug\netcoreapp3.1\CampusEntryApplication.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CampusEntryApplication\obj\Debug\netcoreapp3.1\CampusEntryApplication.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CampusEntryApplication\obj\Debug\netcoreapp3.1\CampusEntryApplication.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CampusEntryApplication\obj\Debug\netcoreapp3.1\CampusEntryApplication.genruntimeconfig.cache
