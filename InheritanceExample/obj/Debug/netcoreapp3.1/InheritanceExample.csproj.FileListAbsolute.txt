@@ -1,0 +1,13 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\InheritanceExample\bin\Debug\netcoreapp3.1\InheritanceExample.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\InheritanceExample\bin\Debug\netcoreapp3.1\InheritanceExample.deps.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\InheritanceExample\bin\Debug\netcoreapp3.1\InheritanceExample.runtimeconfig.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\InheritanceExample\bin\Debug\netcoreapp3.1\InheritanceExample.runtimeconfig.dev.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\InheritanceExample\bin\Debug\netcoreapp3.1\InheritanceExample.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\InheritanceExample\bin\Debug\netcoreapp3.1\InheritanceExample.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.AssemblyInfoInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.AssemblyInfo.cs
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\InheritanceExample\obj\Debug\netcoreapp3.1\InheritanceExample.genruntimeconfig.cache
