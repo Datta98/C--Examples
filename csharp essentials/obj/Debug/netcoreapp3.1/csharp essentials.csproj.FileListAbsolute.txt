@@ -1,0 +1,13 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\csharp essentials\bin\Debug\netcoreapp3.1\csharp essentials.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\csharp essentials\bin\Debug\netcoreapp3.1\csharp essentials.deps.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\csharp essentials\bin\Debug\netcoreapp3.1\csharp essentials.runtimeconfig.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\csharp essentials\bin\Debug\netcoreapp3.1\csharp essentials.runtimeconfig.dev.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\csharp essentials\bin\Debug\netcoreapp3.1\csharp essentials.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\csharp essentials\bin\Debug\netcoreapp3.1\csharp essentials.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\csharp essentials\obj\Debug\netcoreapp3.1\csharp essentials.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\csharp essentials\obj\Debug\netcoreapp3.1\csharp essentials.AssemblyInfoInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\csharp essentials\obj\Debug\netcoreapp3.1\csharp essentials.AssemblyInfo.cs
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\csharp essentials\obj\Debug\netcoreapp3.1\csharp essentials.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\csharp essentials\obj\Debug\netcoreapp3.1\csharp essentials.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\csharp essentials\obj\Debug\netcoreapp3.1\csharp essentials.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\csharp essentials\obj\Debug\netcoreapp3.1\csharp essentials.genruntimeconfig.cache
