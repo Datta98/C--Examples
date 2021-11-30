@@ -1,0 +1,13 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\ImageSenderApplication\bin\Debug\netcoreapp3.1\ImageSenderApplication.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\ImageSenderApplication\bin\Debug\netcoreapp3.1\ImageSenderApplication.deps.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\ImageSenderApplication\bin\Debug\netcoreapp3.1\ImageSenderApplication.runtimeconfig.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\ImageSenderApplication\bin\Debug\netcoreapp3.1\ImageSenderApplication.runtimeconfig.dev.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\ImageSenderApplication\bin\Debug\netcoreapp3.1\ImageSenderApplication.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\ImageSenderApplication\bin\Debug\netcoreapp3.1\ImageSenderApplication.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\ImageSenderApplication\obj\Debug\netcoreapp3.1\ImageSenderApplication.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\ImageSenderApplication\obj\Debug\netcoreapp3.1\ImageSenderApplication.AssemblyInfoInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\ImageSenderApplication\obj\Debug\netcoreapp3.1\ImageSenderApplication.AssemblyInfo.cs
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\ImageSenderApplication\obj\Debug\netcoreapp3.1\ImageSenderApplication.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\ImageSenderApplication\obj\Debug\netcoreapp3.1\ImageSenderApplication.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\ImageSenderApplication\obj\Debug\netcoreapp3.1\ImageSenderApplication.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\ImageSenderApplication\obj\Debug\netcoreapp3.1\ImageSenderApplication.genruntimeconfig.cache
