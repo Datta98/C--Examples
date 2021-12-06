@@ -1,0 +1,13 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CarProduction\bin\Debug\netcoreapp3.1\CarProduction.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CarProduction\bin\Debug\netcoreapp3.1\CarProduction.deps.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CarProduction\bin\Debug\netcoreapp3.1\CarProduction.runtimeconfig.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CarProduction\bin\Debug\netcoreapp3.1\CarProduction.runtimeconfig.dev.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CarProduction\bin\Debug\netcoreapp3.1\CarProduction.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CarProduction\bin\Debug\netcoreapp3.1\CarProduction.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CarProduction\obj\Debug\netcoreapp3.1\CarProduction.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CarProduction\obj\Debug\netcoreapp3.1\CarProduction.AssemblyInfoInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CarProduction\obj\Debug\netcoreapp3.1\CarProduction.AssemblyInfo.cs
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CarProduction\obj\Debug\netcoreapp3.1\CarProduction.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CarProduction\obj\Debug\netcoreapp3.1\CarProduction.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CarProduction\obj\Debug\netcoreapp3.1\CarProduction.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\CarProduction\obj\Debug\netcoreapp3.1\CarProduction.genruntimeconfig.cache
