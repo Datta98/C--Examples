@@ -1,0 +1,13 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.deps.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.runtimeconfig.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.runtimeconfig.dev.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.AssemblyInfoInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.AssemblyInfo.cs
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.genruntimeconfig.cache
