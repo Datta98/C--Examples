@@ -1,0 +1,13 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\SmartPhoneApplication\bin\Debug\netcoreapp3.1\SmartPhoneApplication.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\SmartPhoneApplication\bin\Debug\netcoreapp3.1\SmartPhoneApplication.deps.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\SmartPhoneApplication\bin\Debug\netcoreapp3.1\SmartPhoneApplication.runtimeconfig.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\SmartPhoneApplication\bin\Debug\netcoreapp3.1\SmartPhoneApplication.runtimeconfig.dev.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\SmartPhoneApplication\bin\Debug\netcoreapp3.1\SmartPhoneApplication.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\SmartPhoneApplication\bin\Debug\netcoreapp3.1\SmartPhoneApplication.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\SmartPhoneApplication\obj\Debug\netcoreapp3.1\SmartPhoneApplication.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\SmartPhoneApplication\obj\Debug\netcoreapp3.1\SmartPhoneApplication.AssemblyInfoInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\SmartPhoneApplication\obj\Debug\netcoreapp3.1\SmartPhoneApplication.AssemblyInfo.cs
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\SmartPhoneApplication\obj\Debug\netcoreapp3.1\SmartPhoneApplication.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\SmartPhoneApplication\obj\Debug\netcoreapp3.1\SmartPhoneApplication.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\SmartPhoneApplication\obj\Debug\netcoreapp3.1\SmartPhoneApplication.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\SmartPhoneApplication\obj\Debug\netcoreapp3.1\SmartPhoneApplication.genruntimeconfig.cache
