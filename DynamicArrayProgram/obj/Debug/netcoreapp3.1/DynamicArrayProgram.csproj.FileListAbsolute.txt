@@ -1,0 +1,13 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DynamicArrayProgram\bin\Debug\netcoreapp3.1\DynamicArrayProgram.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DynamicArrayProgram\bin\Debug\netcoreapp3.1\DynamicArrayProgram.deps.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DynamicArrayProgram\bin\Debug\netcoreapp3.1\DynamicArrayProgram.runtimeconfig.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DynamicArrayProgram\bin\Debug\netcoreapp3.1\DynamicArrayProgram.runtimeconfig.dev.json
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DynamicArrayProgram\bin\Debug\netcoreapp3.1\DynamicArrayProgram.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DynamicArrayProgram\bin\Debug\netcoreapp3.1\DynamicArrayProgram.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DynamicArrayProgram\obj\Debug\netcoreapp3.1\DynamicArrayProgram.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DynamicArrayProgram\obj\Debug\netcoreapp3.1\DynamicArrayProgram.AssemblyInfoInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DynamicArrayProgram\obj\Debug\netcoreapp3.1\DynamicArrayProgram.AssemblyInfo.cs
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DynamicArrayProgram\obj\Debug\netcoreapp3.1\DynamicArrayProgram.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DynamicArrayProgram\obj\Debug\netcoreapp3.1\DynamicArrayProgram.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DynamicArrayProgram\obj\Debug\netcoreapp3.1\DynamicArrayProgram.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DynamicArrayProgram\obj\Debug\netcoreapp3.1\DynamicArrayProgram.genruntimeconfig.cache
