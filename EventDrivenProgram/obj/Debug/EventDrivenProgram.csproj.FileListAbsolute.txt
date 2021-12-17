@@ -1,0 +1,7 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\EventDrivenProgram\bin\Debug\EventDrivenProgram.exe.config
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\EventDrivenProgram\bin\Debug\EventDrivenProgram.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\EventDrivenProgram\bin\Debug\EventDrivenProgram.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\EventDrivenProgram\obj\Debug\EventDrivenProgram.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\EventDrivenProgram\obj\Debug\EventDrivenProgram.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\EventDrivenProgram\obj\Debug\EventDrivenProgram.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\EventDrivenProgram\obj\Debug\EventDrivenProgram.pdb
