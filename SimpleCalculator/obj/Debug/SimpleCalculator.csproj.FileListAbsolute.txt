@@ -1,0 +1,14 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\C# practice Assignments\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\C# practice Assignments\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\C# practice Assignments\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\C# practice Assignments\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\C# practice Assignments\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\C# practice Assignments\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\C# practice Assignments\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\C# practice Assignments\C#Assignments\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\C# practice Assignments\C#Assignments\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\C# practice Assignments\C#Assignments\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\C# practice Assignments\C#Assignments\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\C# practice Assignments\C#Assignments\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\C# practice Assignments\C#Assignments\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\C# practice Assignments\C#Assignments\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
